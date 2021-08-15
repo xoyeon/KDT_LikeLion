@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p id="p1"></p>
+    <p id="p2"></p>
+    <script>
+      var txt = "I can eat bananas all day";
+      // var x = txt.slice(0, 10)
+      var x = txt.slice(10, 25)
+      var all = "from 10 to 17 : " +  x
+      alert(all)
+      document.getElementById('p1').innerHTML = txt
+      document.getElementById('p2').innerHTML = all
+    </script>
+</body>
+</html>
