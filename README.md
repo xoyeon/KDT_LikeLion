@@ -11,3 +11,6 @@
 ### 팀 프로젝트
 - [KDT 해커톤](https://github.com/xoyeon/KDT_LikeLion/tree/main/KDT_Hackathon)   
 - [데이콘 주차 수요 예측 AI 경진대회](https://github.com/KimHyerin25/LikeLion_2nd_TeamProject_-AI-)
+
+### 특강
+- [증권 데이터 수집과 분석으로 신호와 소음 찾기](https://github.com/xoyeon/finance-data-analysis)
