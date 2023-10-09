@@ -22,7 +22,7 @@
   팀 이름 | ESC팀|
   |---|----|
   팀장/팀원|이준명, 안현우, 양소연, 양효진
-  |보고서|[중간보고] /  [[결과보고]](https://github.com/LDJWJ/LikeLion_10th_DataCourse/blob/82b9649ffb8c73babb516dd2c8d144700d953f5b/01_Project_Second_DataAnalysis/reports/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_G_ESC%ED%8C%80_0709.pdf)|
+  |보고서|[[중간보고]](https://github.com/LDJWJ/LikeLion_10th_DataCourse/blob/82b9649ffb8c73babb516dd2c8d144700d953f5b/00_TeamProject_First_Corona/reports/%ED%95%B4%EC%BB%A4%ED%86%A4_%EC%9D%B4%EC%A4%80%EB%AA%85_%EB%8C%80%ED%9A%8C.pdf) /  [[결과보고]](https://github.com/LDJWJ/LikeLion_10th_DataCourse/blob/82b9649ffb8c73babb516dd2c8d144700d953f5b/01_Project_Second_DataAnalysis/reports/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_G_ESC%ED%8C%80_0709.pdf)|
   |주제|기후변화에 따른 환경 변화 조사 및 분석|
   
 - [데이콘 주차 수요 예측 AI 경진대회](https://github.com/KimHyerin25/LikeLion_2nd_TeamProject_-AI-)(82/503)
